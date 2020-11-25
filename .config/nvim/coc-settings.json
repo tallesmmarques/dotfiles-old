@@ -1,0 +1,4 @@
+{
+  "snippets.ultisnips.usePythonx": false,
+  "coc.preferences.formatOnSaveFiletypes": ["css", "javascript", "typescript"]
+}
