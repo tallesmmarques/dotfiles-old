@@ -57,6 +57,6 @@ sxhkd &
 ~/.fehbg
 ~/.config/polybar/launch.sh &
 $HOME/scripts/feh-blur -d &
-nm-applet &
+#nm-applet &
 
 xrdb ~/.Xresources &
