@@ -1,0 +1,4 @@
+yay cozette-otb 
+yay siji
+yay otf-ipafont
+sudo pacman -S bspwm sxhkd feh picom polybar termite ttf-fira-code ttf-hack xclip brightnessctl ttf-font-awesome
